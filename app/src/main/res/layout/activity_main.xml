@@ -42,6 +42,7 @@
         android:background="@color/white"
         android:layout_margin="10dp"/>
 
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -61,6 +62,15 @@
         android:textStyle="bold"
         android:layout_marginTop="40dp"
         android:layout_marginHorizontal="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Already have an account"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:layout_margin="10dp"/>
 
 
 
